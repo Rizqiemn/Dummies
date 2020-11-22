@@ -12,7 +12,7 @@
                     <div class="navbar-nav">
                         <a class="nav-link active" style="position: left;" href="/pages/">Home </a>
                         <a class="nav-link active" style="position: left;" href="/pages/about">About Me</a>
-                        <a class="nav-link active" style="position: left;" href="/pages/contact">Contact</a>
+                        <a class="nav-link active" style="position: left;" href="/orang">Orang</a>
                         <a class="nav-link active" style="position: left;" href="/komik/">Komik</a>
                     </div>
                 </div>
